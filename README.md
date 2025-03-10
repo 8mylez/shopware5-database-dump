@@ -34,6 +34,3 @@ Options:
 ```
 
 Ihr Dump wird als `dump.sql.gz` (oder mit dem von Ihnen angegebenen Dateinamen) gespeichert.
-
-## Lizenz
-MIT 
